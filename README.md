@@ -1,4 +1,4 @@
-# Group-7-Python-Final-Project: House Recommendation
+# Group-7-Python-Final-Project: Pittsburgh House Recommendation 
 Team Member: gulrich, wanghuil, xueqianz, jiawenli
 
 Top 2 problems we intend to solve in this project:
